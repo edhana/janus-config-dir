@@ -1,6 +1,3 @@
-[submodule "nerdtree"]
-	path = nerdtree
-	url = ./nerdtree/
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
