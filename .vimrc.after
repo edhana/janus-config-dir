@@ -113,6 +113,7 @@ else
 endif
 
 
+nmap <C-W>! <Plug>Kwbd
 
 
 
